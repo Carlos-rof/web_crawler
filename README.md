@@ -27,12 +27,12 @@ Realiza requisição ao site da Digital Ocean - Tabelas Premium da Intel e AMD
 * https://www.digitalocean.com/c91f2d98-7829554511fa4c770105.js (GET)
 
 ## Ações
-### 1 Faz o scrapy das paginas: Vultr e Digital Ocean, pelos endpoints
-### 2 Faz tratamento de texto no retorno dos endpoints e constrói um dict
-### 3 Printa no terminal os dados extraídos de forma tabulada
-### 4 Salva os dados em um banco de dados local, com data e ID específico
-### 5 Salva os dados em um documento CSV
-### 6 Salva os dados em um documento JSON
+# 1 Faz o scrapy das paginas: Vultr e Digital Ocean, pelos endpoints
+# 2 Faz tratamento de texto no retorno dos endpoints e constrói um dict
+# 3 Printa no terminal os dados extraídos de forma tabulada
+# 4 Salva os dados em um banco de dados local, com data e ID específico
+# 5 Salva os dados em um documento CSV
+# 6 Salva os dados em um documento JSON
 
 ## Changelog
 
